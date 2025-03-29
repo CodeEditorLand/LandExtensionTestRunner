@@ -96,8 +96,8 @@
 		"stacktrace-parser": "0.1.11"
 	},
 	"devDependencies": {
-		"@types/chai": "5.2.0",
-		"@types/estree": "1.0.6",
+		"@types/chai": "5.2.1",
+		"@types/estree": "1.0.7",
 		"@types/glob": "8.1.0",
 		"@types/node": "22.x",
 		"@types/picomatch": "3.0.2",
@@ -107,7 +107,7 @@
 		"chai": "5.2.0",
 		"esbuild": "0.25.1",
 		"glob": "11.0.1",
-		"sinon": "19.0.4"
+		"sinon": "20.0.0"
 	},
 	"icon": "icon.png",
 	"capabilities": {
